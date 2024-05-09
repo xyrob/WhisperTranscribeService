@@ -1,2 +1,5 @@
-# WhisperTranscribeService
-A simple transcription service using a local openai-whisper model
+# Whisper Transcribe Service
+
+This is a simple microservice that transcribes audio files using a local OpenAI Whisper model.
+
+

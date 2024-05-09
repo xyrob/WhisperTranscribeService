@@ -1,0 +1,5 @@
+openai-whisper
+flask
+ipython
+ffmpeg-python
+gunicorn
